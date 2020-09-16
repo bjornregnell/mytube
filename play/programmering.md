@@ -1,7 +1,15 @@
 # Programmering
 
-<iframe 
-  width="560" height="315" src="https://www.youtube.com/embed/SVWkJBwAm4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+Introduktion till programmering med Scala, Björn Regnell
 
-</iframe>
+* Hemsida: http://cs.lth.se/pgk
+
+* Kanal: https://www.youtube.com/user/bjornregnell/
+
+* Spellista: https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX
+
+## Länkar för delning av enskild video:
+
+[Vecka 3 del 1:](https://youtu.be/SVWkJBwAm4w) funktioner, överlagring, defaultargument, stacken
+
 
