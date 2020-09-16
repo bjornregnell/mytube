@@ -3,7 +3,7 @@ Repository with stuff for my channel https://youtube.com/user/bjornregnell
 
 ## How to contribute with timestamps?
 
-* [Watch a video](https://github.com/bjornregnell/mytube/blob/master/play/programmering.md) without [timestamps](https://github.com/bjornregnell/mytube/tree/master/timestamps). A video with missing timestamp lacks a file in the `timestamps` folder of this repo.
+* [Watch a video](https://github.com/bjornregnell/mytube/blob/master/play/programmering.md) without [timestamps](https://github.com/bjornregnell/mytube/tree/master/timestamps). A video with missing timestamps lacks a file in the `timestamps` folder of this repo.
 
 * While watching take notes on every topic/concept/headline, similar to (but with *real* stuff):
   ```
