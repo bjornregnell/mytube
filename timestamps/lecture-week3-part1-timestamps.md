@@ -1,5 +1,5 @@
 # Programmering vecka 3 del 1: funktioner, överlagring, default-argument, stacken
-
+```
 0:00 Intro
 0:18 Vad är en funktion?
 2:14 Metafor: Kaffekvarn
@@ -12,3 +12,4 @@
 22:34 Enhetlig access
 28:48 Hur ser det ut i minnet när funktioner anropas?
 34:40 Aktiveringspost, exempel: nästlade anrop
+```
