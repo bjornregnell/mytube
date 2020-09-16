@@ -11,5 +11,5 @@
 20:12 Namngivna argument
 22:34 Enhetlig access
 28:48 Hur ser det ut i minnet när funktioner anropas?
-34:40 Aktiveringspost, exempel: nästlade anrop
+34:40 Aktiveringspost på stacken, exempel: nästlade anrop
 ```
