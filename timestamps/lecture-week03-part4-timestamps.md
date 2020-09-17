@@ -10,4 +10,5 @@
 25:43 Rekursion
 32:03 Byggverktyg
 35:42 sbt
+44:03 Veckans uppgifter
 ```
