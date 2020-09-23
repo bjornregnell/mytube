@@ -1,4 +1,4 @@
-# Programmering vecka X, del Y: ämne1, ämne2
+# Programmering vecka 1, del 1: om kursen
 
 ```
 00:00 Intro
