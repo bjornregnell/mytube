@@ -11,6 +11,7 @@
 12:10 Grundtyper i Scala
 14:01 Grundtypernas Omfång
 18:56 Uttryck
+21:04 Exempel uttryck
 25:10 Variabler
 26:43 Exempel på variabeldeklarationer
 31:21 Exempel på typhärledning
