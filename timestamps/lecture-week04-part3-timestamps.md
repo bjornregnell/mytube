@@ -1,3 +1,4 @@
+```
 0:00 Intro
 0:25 Fördröjd initialisering
 6:50 Lazy val
@@ -11,3 +12,4 @@
 32:15 Vad är en klass?
 37:24 Använda klassen Color
 46:35 Rast och thumbnail
+```
