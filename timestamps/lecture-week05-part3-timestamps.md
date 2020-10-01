@@ -1,6 +1,7 @@
 # Programmering vecka 5, del 3: case-klasser 
 
 ```
+00:00 Intro
 00:38 Livekod - class Human
 07:08 override def toString
 08:18 Kompanjonsobjekt

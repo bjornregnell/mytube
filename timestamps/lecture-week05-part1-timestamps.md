@@ -1,6 +1,7 @@
 # Programmering vecka 5, del 1: klasser
 
 ```
+00:00 Intro
 00:36 Dagens föreläsning
 01:37 Lärandemål veckans övning
 06:54 Vad är en klass?
