@@ -18,4 +18,12 @@
 19:31 Option, en gemensam bastyp
 21:15 isEmpty på en Option
 22:47 Facebook och Option
-
+29:04 Option för hantering av ev saknade värden
+32:14 Smidiga metoder på Option
+34:17 Några samlingsmetoder som ger en Option
+38:33 Fråga: Kan man skippa att skicka med NONE som parameter?
+40:55 Undantag
+41:36 Undantag kan orsaka krasch
+41:53 Try- Undviker krasch
+42:22 Vad är ett undantag?
+44:00 Dags för rast
