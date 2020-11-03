@@ -5,16 +5,16 @@
 2:40 Orsaka undantag med flit
 3:40 require
 5:38 assert
-6:56 Hur dom är implementerade
+6:56 Hur är assert och require implementerade?
 8:10 Throw: ett sätt att kasta undantag!
 9:30 Undantag i Java och Scala
 10:16 Hantera undantag med Try
 10:37 Bastypen Try
-12:50 Demo Throw
-14:00 Demo Try
-17:25 Demo getOrElse
-17:55 Demo map på Option
-19:10 Demo For-uttryck på Option
+12:50 Exempel Throw
+14:00 Exempel Try
+17:25 Exempel getOrElse
+17:55 Exempel map på Option
+19:10 Exempel For-uttryck på Option
 20:00 Match på Option
 22:13 Try-catch
 26:50 Demo Try catch

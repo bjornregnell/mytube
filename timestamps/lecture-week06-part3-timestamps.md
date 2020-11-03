@@ -2,7 +2,7 @@
 0:18 Repetition av gårdagen
 0:50 for-yield 
 2:26 for-yield för vektor med tuplar 
-4:20 NAJS: Konstruktor mönster för tuple 
+4:20 Konstruktor mönster för tuple 
 6:05 Konstruktor mönster case class 
 7:50 Unapply 8:40 Olika ställen vi sett mönster 
 9:14 Mönster vid variabel deklaration 
