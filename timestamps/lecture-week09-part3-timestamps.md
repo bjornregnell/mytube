@@ -6,11 +6,11 @@
 7:00 SVAR PÅ TITTARFRÅGA
 7:35 TITTARFRÅGA: Giltlig nyckel
 7:46 SVAR PÅ TITTARFRÅGA
-8:54 Tabell utifrån en sekvens
+8:54 Tabell från en sekvens
 11:50 Hur ser detta ut i minnet?
-15:13 DEMO REPL Forts. nyckel värde tabeller
+15:13 DEMO REPL Forts. nyckel-värde-tabeller
 16:22 Lägga till fler nyckel-värde-par.
-17:00 Nyckel värde tabell apply
+17:00 Nyckel-värde-tabell apply
 17:10 Ta bort nyckel dess värde
 18:14 TITTARFRÅGA metoden :+
 18:51 SVAR PÅ TITTARFRÅGA
