@@ -1,6 +1,7 @@
 # Programmering vecka 9, del 2: Mängder, tabeller
 
 ```
+
 00:00 Mängder
 04:06 Vad är en mängd?
 08:00 Exempel: Oföränderlig mängd
@@ -11,4 +12,5 @@
 31:19 Nyckel-värde-tabellen Map
 36:48 Exempel: Map
 42:44 Exempel nyckel-värde-tabell
+
 ...
