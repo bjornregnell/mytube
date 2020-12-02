@@ -1,13 +1,20 @@
 # Programmering vecka 10, del 3: arv, statisk och dynamisk typ
 
 ```
-00:00 Mängder
-04:06 Vad är en mängd?
-08:00 Exempel: Oföränderlig mängd
-11:29 Fallgrop i mängder
-15:09 Exempel: Förändringsbar mängd
-19:49 Exempel: Mäta tidsskillnad
-25:08 Vad är en nyckel-värde-tabell
-31:19 Nyckel-värde-tabellen Map
-36:48 Exempel: Map
-42:44 Exempel nyckel-värde-tabell
+00.00 Intro
+00:20 Exempel: Arv i UML
+04:10 Bastyper, supertyper och subtyper
+04:45 Arvsrelationer
+06:49 Exempel: Arv i Scala
+08:59 Parameter till supertyp
+12:00 Private[this]-attribut till parameter hos supertyp 
+19:00 Override-attribut till parameter hos supertyp 
+22:16 Frågor till exempel
+29:10 Abstrakta typer
+
+
+
+
+
+
+
