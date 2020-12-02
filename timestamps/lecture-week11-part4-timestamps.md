@@ -1,5 +1,4 @@
 # Programmering vecka 11, del 4: java autoboxning, ArrayList.
-https://www.youtube.com/watch?v=ZAYamL724gg
 ```
 00:00 Autoboxning.
 02:33 Exempel: Wrapper-klassen Integer.
