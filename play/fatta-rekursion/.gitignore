@@ -4,3 +4,6 @@
 **/.bloop
 **/target
 **/metals.sbt
+**/*.class
+**/*.cache
+
