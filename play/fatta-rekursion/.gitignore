@@ -1,5 +1,6 @@
 .metals
 .vscode
+.bsp
 **/.bloop
 **/target
 **/metals.sbt
