@@ -7,14 +7,15 @@ Repository with stuff for my channel https://youtube.com/user/bjornregnell
 
 * While watching take notes on every topic/concept/headline, similar to (but with *real* stuff). Check the slides for headings and write the headings (in Swedish):
   ```
-  00:00 intro
-  03:45 headline a
-  05:01 topic y, topic z
+  00:00 Intro
+  03:45 Headline a
+  05:01 Topic y, topic z
   ```
   etc
 
 * The more timestamps with good concepts/headings/topics the better to help watchers find specific stuff in the videos.
 
+* Make at least one stamp per slide heading, the first stamp being the actual heading as written on the slide.
 * Use the same terminology as used on the slides in the video. 
   * Slides are available here: http://cs.lth.se/pgk/allslides/ 
   * Topics are available for each lecture here: http://cs.lth.se/pgk/foerelaesningar/
